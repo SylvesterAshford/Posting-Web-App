@@ -1,0 +1,16 @@
+/* nav component */
+.navbar {
+    padding: 10px;
+    background-color: gray;
+    color: white;
+}
+
+
+.navbar .container ul {
+    display: flex;
+}
+
+.navbar .container li {
+    list-style-type: none;
+    margin: 0 20px;
+}
